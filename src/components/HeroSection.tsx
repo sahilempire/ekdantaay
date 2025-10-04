@@ -1,8 +1,7 @@
 'use client';
 
 import { motion, useScroll, useTransform } from 'framer-motion';
-import { Phone, MapPin, Clock, CheckCircle, ArrowRight, Play } from 'lucide-react';
-import ParticleBackground from './ParticleBackground';
+import { Phone, CheckCircle, ArrowRight } from 'lucide-react';
 import AnimatedCounter from './AnimatedCounter';
 
 export default function HeroSection() {

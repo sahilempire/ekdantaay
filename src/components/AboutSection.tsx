@@ -4,7 +4,6 @@ import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import Tilt from 'react-parallax-tilt';
 import { Award, GraduationCap, User, Calendar, Clock, MapPin, Star, Heart } from 'lucide-react';
-import AnimatedCounter from './AnimatedCounter';
 
 export default function AboutSection() {
   const [ref, inView] = useInView({

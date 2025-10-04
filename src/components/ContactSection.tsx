@@ -48,7 +48,7 @@ export default function ContactSection() {
           </h2>
           <p className="text-xl text-dental-darkGray max-w-3xl mx-auto">
             Get in touch with us for appointments, consultations, or any dental care needs. 
-            We're here to help you achieve your perfect smile.
+            We&apos;re here to help you achieve your perfect smile.
           </p>
         </div>
 
