@@ -9,7 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@tabler/icons-react": "^3.35.0",
     "aos": "^2.3.4",
+    "clsx": "^2.1.1",
     "framer-motion": "^12.23.22",
     "lucide-react": "^0.544.0",
     "next": "15.5.4",
@@ -17,7 +19,8 @@
     "react-countup": "^6.5.3",
     "react-dom": "19.1.0",
     "react-intersection-observer": "^9.16.0",
-    "react-parallax-tilt": "^1.7.309"
+    "react-parallax-tilt": "^1.7.309",
+    "tailwind-merge": "^3.3.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
